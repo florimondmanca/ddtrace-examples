@@ -1,0 +1,11 @@
+# Dependencies.
+-e ../ddtrace-asgi
+aiohttp
+ddtrace
+flask
+starlette
+uvicorn
+
+# Tooling.
+black
+mypy
