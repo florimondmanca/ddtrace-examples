@@ -1,6 +1,6 @@
-# tracing-example
+# ddtrace-examples
 
-Example applications for trying out [Datadog APM](https://docs.datadoghq.com/tracing/).
+Example applications built to try out [Datadog APM](https://docs.datadoghq.com/tracing/).
 
 ## Examples
 
