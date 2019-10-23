@@ -8,6 +8,8 @@ To run these examples (without having to deploy to a cloud host), make sure you 
 
 Traces may take a few minutes to show up in the [APM UI](https://app.datadoghq.com/apm/services).
 
+![](assets/capture-services.png)
+
 ### Flask
 
 ```bash
