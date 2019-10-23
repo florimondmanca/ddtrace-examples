@@ -4,6 +4,10 @@ Example applications for trying out [Datadog APM](https://docs.datadoghq.com/tra
 
 ## Examples
 
+To run these examples (without having to deploy to a cloud host), make sure you have the Datadog Agent installed and running locally. (Personally, I installed the Agent on my Mac following the instructions [here](https://docs.datadoghq.com/agent/basic_agent_usage/osx/?tab=agentv6).)
+
+Traces may take a few minutes to show up in the [APM UI](https://app.datadoghq.com/apm/services).
+
 ### Flask
 
 ```bash
