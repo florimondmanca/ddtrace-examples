@@ -1,7 +1,7 @@
 # Dependencies.
--e ../ddtrace-asgi
 aiohttp
 ddtrace
+ddtrace-asgi
 flask
 starlette
 uvicorn
